@@ -25,13 +25,13 @@ Then open: http://localhost:5000
 bash
 Copy
 Edit
-git clone https://github.com/your-username/xero-gpt-financial-analyzer.git
-2. Install Dependencies
+(https://github.com/Deepakrawa123/Xero-Financial-Analyst/blob/main/README.md)
+3. Install Dependencies
 bash
 Copy
 Edit
 pip install flask requests requests_oauthlib openai
-3. Set Your Keys
+4. Set Your Keys
 Edit app.py:
 
 python
